@@ -1,3 +1,6 @@
 streamlit
 charset-normalizer == 2.0.12
 poetry
+pytest
+mechanize
+bs4
